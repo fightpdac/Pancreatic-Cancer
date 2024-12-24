@@ -8,16 +8,10 @@ let currentFilterValue = null;
 document.addEventListener('DOMContentLoaded', function() {
     const urlParams = new URLSearchParams(window.location.search);
     const tag = urlParams.get('tag');
-    const date = urlParams.get('date');
 
     if (tag) {
         currentFilterType = 'tag';
         currentFilterValue = tag;
-    }
-
-    if (date) {
-        currentFilterType = 'date';
-        currentFilterValue = date;
     }
 
     // 從 JSON 文件加載文章元數據
@@ -47,9 +41,7 @@ document.addEventListener('DOMContentLoaded', function() {
             document.documentElement.style.setProperty('--accent-color', data.color5);
             if (tag) {
                 filterArticles('tag', tag);
-            } else if (date) {
-                filterArticles('date', date);
-            }else {
+            } else {
                 displayArticles(currentPage);
             }
             updatePagination();
@@ -363,3 +355,71 @@ function adjustSidebarHeight() {
 
 window.addEventListener('load', adjustSidebarHeight);
 window.addEventListener('resize', adjustSidebarHeight);
+
+document.addEventListener('click', (event) =>{ 
+    const anchor = event.target.closest('a')
+    if (anchor){
+        event.preventDefault();
+        console.log('detect_click\n');
+        console.log(anchor.href);
+        fetch('https://065c-104-199-172-31.ngrok-free.app/track_url', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ url: anchor.href })
+        })
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`HTTP error! Status: ${response.status}`);
+            }
+            return response.json();
+        })
+        .catch(error => {
+            console.error('Fetch error:', error)
+        })
+        .finally(() => {
+            window.open(anchor.href, '_blank'); // Navigate after tracking
+        });
+    }
+});
+
+// async function translatePage() {
+//     const userLang = navigator.language || navigator.userLanguage; // Detect browser language
+//     const targetLang = userLang.split('-')[0]; // Get language code
+//     const elements = document.querySelectorAll('h1, h2, h3, p, a'); // Select elements to translate
+//     console.log(userLang)
+//     console.log(targetLang)
+//     for (let el of elements) {
+//         const originalText = el.textContent.trim(); // Trim to remove unnecessary spaces
+//         if (!originalText) continue; // Skip empty text
+
+//         try {
+//             const res = await fetch("https://065c-104-199-172-31.ngrok-free.app/translate", {
+//                 method: "POST",
+//                 headers: {
+//                     "Content-Type": "application/json"
+//                 },
+//                 mode: "cors", // Explicitly enable CORS
+//                 body: JSON.stringify({
+//                     q: originalText,
+//                     source: "auto",
+//                     target: targetLang
+//                 })
+//             });
+
+//             if (!res.ok) {
+//                 const errorDetails = await res.text();
+//                 console.error(`API Error (${res.status}): ${errorDetails}`);
+//                 continue;
+//             }
+
+//             const data = await res.json();
+//             el.textContent = data.translatedText || originalText; // Update text or keep original
+//         } catch (error) {
+//             console.error("Translation error:", error);
+//         }
+//     }
+// }
+
+// document.addEventListener("DOMContentLoaded", translatePage);

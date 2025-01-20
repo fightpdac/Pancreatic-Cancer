@@ -155,7 +155,7 @@ function addRelatedWebsites(currentSite) {
 
 function createTagCloud(id, div) {
     const paragraphs = document.body.querySelectorAll('p')
-    fetch('https://d331-104-199-172-31.ngrok-free.app/text_cloud', {
+    fetch('https://53f9-104-199-172-31.ngrok-free.appd/text_cloud', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
@@ -411,7 +411,7 @@ document.addEventListener('click', (event) =>{
         event.preventDefault();
         console.log('detect_click\n');
         console.log(anchor.href);
-        fetch('https://d331-104-199-172-31.ngrok-free.app/track_url', {
+        fetch('https://53f9-104-199-172-31.ngrok-free.app/track_url', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'

@@ -35,11 +35,11 @@
                     "癌症藥物介紹"
                 ],
                 "website": [
-                    "Gastric Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
+                    "Esophageal Cancer",
                     "Pancreatic Cancer",
-                    "Esophageal Cancer"
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -60,17 +60,17 @@
                     "PACLITAXEL",
                     "疾病治療",
                     "用藥指南",
-                    "胰臟癌",
                     "乳癌",
+                    "胰臟癌",
                     "臨床研究",
                     "食道癌"
                 ],
                 "website": [
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
-                    "Pancreatic Cancer",
-                    "Breast Cancer",
-                    "Esophageal Cancer"
+                    "Esophageal Cancer",
+                    "Pancreatic Cancer"
                 ]
             },
             {
@@ -81,11 +81,9 @@
                 "tags": [
                     "胃癌",
                     "藥物作用機制",
-                    "抗癌藥物",
                     "癌症治療",
-                    "肺癌",
-                    "卵巢癌",
                     "胰腺癌",
+                    "乳癌",
                     "食道癌",
                     "癌症藥物介紹",
                     "藥物敏感性",
@@ -93,11 +91,11 @@
                     "永日化學工業股份有限公司"
                 ],
                 "website": [
-                    "Gastric Cancer",
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
                     "Pancreatic Cancer",
-                    "Esophageal Cancer"
+                    "Head and Neck Cancer"
                 ]
             },
             {
@@ -110,19 +108,138 @@
                     "癌症治療",
                     "派力杉注射劑",
                     "Paclitaxel Mylan",
-                    "肺癌",
-                    "卵巢癌",
-                    "胰臟癌",
                     "乳癌",
+                    "卵巢癌",
+                    "肺癌",
+                    "胰臟癌",
                     "食道癌",
                     "癌症藥物介紹"
                 ],
                 "website": [
+                    "Breast Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Esophageal Cancer",
+                    "Pancreatic Cancer"
+                ]
+            },
+            {
+                "titles": "克抑癌注射液 (Paclitero (Paclitaxel Injection 6mg/ml)) ：您的癌症戰友",
+                "author": "Cancerfree",
+                "no": 2166,
+                "date": "2024/11/11 09:20:00",
+                "tags": [
+                    "胃癌",
+                    "癌症",
+                    "化學療法",
+                    "紫杉醇",
+                    "胰臟癌",
+                    "PACLITAXEL"
+                ],
+                "website": [
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
                     "Pancreatic Cancer",
+                    "Head and Neck Cancer"
+                ]
+            },
+            {
+                "titles": "深入瞭解 \"山德士\"帕瘤鎖注射劑6毫克/毫升",
+                "author": "Cancerfree",
+                "no": 2167,
+                "date": "2024/11/11 09:19:00",
+                "tags": [
+                    "癌症治療",
+                    "藥物治療",
+                    "化學治療",
+                    "山德士",
+                    "肺癌",
+                    "帕瘤鎖",
+                    "卵巢癌",
+                    "胰腺癌",
+                    "乳癌",
+                    "食道癌",
+                    "癌症藥物介紹",
+                    "微管解聚抑制劑"
+                ],
+                "website": [
                     "Breast Cancer",
-                    "Esophageal Cancer"
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Esophageal Cancer",
+                    "Pancreatic Cancer"
+                ]
+            },
+            {
+                "titles": "全面介紹亞伯杉注射劑 (Abraxane for Injectable Suspension) 在治療肺癌、食管癌、卵巢癌、胃癌、胰臟癌方面的用途",
+                "author": "Cancerfree",
+                "no": 2168,
+                "date": "2024/11/11 09:18:00",
+                "tags": [
+                    "化療",
+                    "癌症治療",
+                    "亞伯杉注射劑",
+                    "乳癌",
+                    "卵巢癌",
+                    "肺癌",
+                    "胰臟癌",
+                    "PACLITAXEL",
+                    "Abraxane for Injectable Suspension",
+                    "食管癌",
+                    "癌症藥物介紹",
+                    "台灣必治妥施貴寶股份有限公司",
+                    "Abraxis Bio Science LLC",
+                    "BAXTER ONCOLOGY GMBH",
+                    "BOLLORE LOGISTICS SINGAPORE PTE. LTD."
+                ],
+                "website": [
+                    "Breast Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Esophageal Cancer",
+                    "Pancreatic Cancer"
+                ]
+            },
+            {
+                "titles": "歐思廷注射液 (Oxitan Injection) 治療結腸癌、胃癌、胰臟癌的全面介紹",
+                "author": "Cancerfree",
+                "no": 2171,
+                "date": "2024/11/11 09:14:00",
+                "tags": [
+                    "胃癌",
+                    "化療",
+                    "抗癌藥物",
+                    "歐思廷注射液",
+                    "胰臟癌",
+                    "結腸癌",
+                    "癌症藥物介紹",
+                    "OXALIPLATIN"
+                ],
+                "website": [
+                    "Pancreatic Cancer",
+                    "Colorectal Cancer",
+                    "Gastric Cancer"
+                ]
+            },
+            {
+                "titles": "歐克力注射劑：輝瑞大藥廠製造的治療腸癌、胃癌和胰臟癌的夥伴",
+                "author": "Cancerfree",
+                "no": 2172,
+                "date": "2024/11/11 09:13:00",
+                "tags": [
+                    "胃癌",
+                    "歐克力注射劑",
+                    "胰臟癌",
+                    "輝瑞",
+                    "腸癌",
+                    "癌症藥物介紹",
+                    "OXALIPLATIN"
+                ],
+                "website": [
+                    "Pancreatic Cancer",
+                    "Colorectal Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -140,9 +257,9 @@
                     "癌症藥物介紹"
                 ],
                 "website": [
-                    "Gastric Cancer",
                     "Pancreatic Cancer",
-                    "Colorectal Cancer"
+                    "Colorectal Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -163,9 +280,9 @@
                     "Antineoplastic Agent"
                 ],
                 "website": [
-                    "Gastric Cancer",
                     "Pancreatic Cancer",
-                    "Colorectal Cancer"
+                    "Colorectal Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -185,9 +302,9 @@
                     "Oxitan Lyophilized Powder for Injection"
                 ],
                 "website": [
-                    "Gastric Cancer",
                     "Pancreatic Cancer",
-                    "Colorectal Cancer"
+                    "Colorectal Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -210,9 +327,9 @@
                     "藥物用法用量"
                 ],
                 "website": [
-                    "Gastric Cancer",
                     "Pancreatic Cancer",
-                    "Colorectal Cancer"
+                    "Colorectal Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -230,9 +347,9 @@
                     "益樂鉑定凍晶注射劑100毫克"
                 ],
                 "website": [
-                    "Gastric Cancer",
                     "Pancreatic Cancer",
-                    "Colorectal Cancer"
+                    "Colorectal Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -258,9 +375,9 @@
                     "無疾病進展"
                 ],
                 "website": [
-                    "Gastric Cancer",
                     "Pancreatic Cancer",
-                    "Colorectal Cancer"
+                    "Colorectal Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -280,9 +397,9 @@
                     "杏輝杏瑞鉑靜脈注射液5毫克/毫升"
                 ],
                 "website": [
-                    "Gastric Cancer",
                     "Pancreatic Cancer",
-                    "Colorectal Cancer"
+                    "Colorectal Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -1590,17 +1707,17 @@
                     "網路資源"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
+                    "Brain tumor",
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
-                    "Pancreatic Cancer",
-                    "Prostate Cancer",
-                    "Breast Cancer",
                     "Esophageal Cancer",
+                    "Pancreatic Cancer",
+                    "Oral Cancer",
+                    "Prostate Cancer",
                     "Colorectal Cancer",
-                    "Brain tumor",
-                    "Oral Cancer"
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -1617,17 +1734,17 @@
                     "醫療政策"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
+                    "Brain tumor",
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
-                    "Pancreatic Cancer",
-                    "Prostate Cancer",
-                    "Breast Cancer",
                     "Esophageal Cancer",
+                    "Pancreatic Cancer",
+                    "Oral Cancer",
+                    "Prostate Cancer",
                     "Colorectal Cancer",
-                    "Brain tumor",
-                    "Oral Cancer"
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -1704,17 +1821,17 @@
                     "病患照護"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
+                    "Brain tumor",
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
-                    "Pancreatic Cancer",
-                    "Prostate Cancer",
-                    "Breast Cancer",
                     "Esophageal Cancer",
+                    "Pancreatic Cancer",
+                    "Oral Cancer",
+                    "Prostate Cancer",
                     "Colorectal Cancer",
-                    "Brain tumor",
-                    "Oral Cancer"
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -1733,17 +1850,17 @@
                     "生存品質"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
+                    "Brain tumor",
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
-                    "Pancreatic Cancer",
-                    "Prostate Cancer",
-                    "Breast Cancer",
                     "Esophageal Cancer",
+                    "Pancreatic Cancer",
+                    "Oral Cancer",
+                    "Prostate Cancer",
                     "Colorectal Cancer",
-                    "Brain tumor",
-                    "Oral Cancer"
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -1765,17 +1882,17 @@
                     "生物學"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
+                    "Brain tumor",
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
-                    "Pancreatic Cancer",
-                    "Prostate Cancer",
-                    "Breast Cancer",
                     "Esophageal Cancer",
+                    "Pancreatic Cancer",
+                    "Oral Cancer",
+                    "Prostate Cancer",
                     "Colorectal Cancer",
-                    "Brain tumor",
-                    "Oral Cancer"
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -1794,17 +1911,17 @@
                     "癌症階段"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
+                    "Brain tumor",
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
-                    "Pancreatic Cancer",
-                    "Prostate Cancer",
-                    "Breast Cancer",
                     "Esophageal Cancer",
+                    "Pancreatic Cancer",
+                    "Oral Cancer",
+                    "Prostate Cancer",
                     "Colorectal Cancer",
-                    "Brain tumor",
-                    "Oral Cancer"
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -1824,17 +1941,17 @@
                     "醫療設備"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
+                    "Brain tumor",
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
-                    "Pancreatic Cancer",
-                    "Prostate Cancer",
-                    "Breast Cancer",
                     "Esophageal Cancer",
+                    "Pancreatic Cancer",
+                    "Oral Cancer",
+                    "Prostate Cancer",
                     "Colorectal Cancer",
-                    "Brain tumor",
-                    "Oral Cancer"
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -1852,17 +1969,17 @@
                     "放射線治療"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
+                    "Brain tumor",
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
-                    "Pancreatic Cancer",
-                    "Prostate Cancer",
-                    "Breast Cancer",
                     "Esophageal Cancer",
+                    "Pancreatic Cancer",
+                    "Oral Cancer",
+                    "Prostate Cancer",
                     "Colorectal Cancer",
-                    "Brain tumor",
-                    "Oral Cancer"
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -1881,17 +1998,17 @@
                     "生活方式"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
+                    "Brain tumor",
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
-                    "Pancreatic Cancer",
-                    "Prostate Cancer",
-                    "Breast Cancer",
                     "Esophageal Cancer",
+                    "Pancreatic Cancer",
+                    "Oral Cancer",
+                    "Prostate Cancer",
                     "Colorectal Cancer",
-                    "Brain tumor",
-                    "Oral Cancer"
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {

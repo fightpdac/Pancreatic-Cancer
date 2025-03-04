@@ -1201,14 +1201,14 @@
                 "date": "2024/11/11 05:25:00",
                 "tags": [
                     "抗癌藥物",
-                    "肺癌",
-                    "肝癌",
                     "Gemcitabine",
-                    "Gemtero",
-                    "非小細胞肺癌",
-                    "卵巢癌",
-                    "胰臟癌",
                     "乳癌",
+                    "肝癌",
+                    "卵巢癌",
+                    "肺癌",
+                    "Gemtero",
+                    "胰臟癌",
+                    "非小細胞肺癌",
                     "膀胱癌",
                     "食道癌",
                     "癌症藥物介紹",
@@ -1216,12 +1216,40 @@
                     "凱沛爾藥品"
                 ],
                 "website": [
-                    "Liver Cancer",
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
+                    "Esophageal Cancer",
                     "Pancreatic Cancer",
+                    "Liver Cancer"
+                ]
+            },
+            {
+                "titles": "全面瞭解珍喜得平凍晶注射劑的醫學用途和應用範圍",
+                "author": "Cancerfree",
+                "no": 2247,
+                "date": "2024/11/11 05:24:00",
+                "tags": [
+                    "藥物介紹",
+                    "癌症治療",
+                    "乳癌",
+                    "卵巢癌",
+                    "胰臟癌",
+                    "非小細胞肺癌",
+                    "膀胱癌",
+                    "臨床研究",
+                    "癌症藥物介紹",
+                    "用藥須知",
+                    "膽道癌",
+                    "GEMCITABINE"
+                ],
+                "website": [
                     "Breast Cancer",
-                    "Esophageal Cancer"
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Esophageal Cancer",
+                    "Pancreatic Cancer",
+                    "Liver Cancer"
                 ]
             },
             {
@@ -1243,12 +1271,96 @@
                     "癌症藥物介紹"
                 ],
                 "website": [
-                    "Liver Cancer",
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
+                    "Esophageal Cancer",
                     "Pancreatic Cancer",
+                    "Liver Cancer"
+                ]
+            },
+            {
+                "titles": "全面了解「霖揚」吉西他濱凍晶注射劑200毫克 - 一種關鍵的癌症治療藥物",
+                "author": "Cancerfree",
+                "no": 2249,
+                "date": "2024/11/11 05:22:00",
+                "tags": [
+                    "癌症治療",
+                    "乳癌",
+                    "卵巢癌",
+                    "胰臟癌",
+                    "非小細胞肺癌",
+                    "膀胱癌",
+                    "癌症藥物介紹",
+                    "霖揚生技製藥股份有限公司",
+                    "膽道癌",
+                    "霖揚吉西他濱",
+                    "吉西他濱注射液",
+                    "吉西他濱作用機制",
+                    "吉西他濱適應症"
+                ],
+                "website": [
                     "Breast Cancer",
-                    "Esophageal Cancer"
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Esophageal Cancer",
+                    "Pancreatic Cancer",
+                    "Liver Cancer"
+                ]
+            },
+            {
+                "titles": "永信健法凍晶注射劑 (Gemphar Lyo-Injection \"Yung Shin\") 的全面介紹",
+                "author": "Cancerfree",
+                "no": 2250,
+                "date": "2024/11/11 05:20:00",
+                "tags": [
+                    "Gemcitabine",
+                    "非小細胞肺癌",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "胰臟癌",
+                    "Pancreatic Cancer",
+                    "膀胱癌",
+                    "Esophageal Cancer",
+                    "永信藥品工業股份有限公司",
+                    "Breast Cancer",
+                    "癌症藥物介紹",
+                    "Liver Cancer",
+                    "永信健法凍晶注射劑 (Gemphar Lyo-Injection 'Yung Shin')"
+                ],
+                "website": [
+                    "Breast Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Esophageal Cancer",
+                    "Pancreatic Cancer",
+                    "Liver Cancer"
+                ]
+            },
+            {
+                "titles": "全方位認識安佑得凍晶注射劑",
+                "author": "Cancerfree",
+                "no": 2251,
+                "date": "2024/11/11 05:19:00",
+                "tags": [
+                    "安佑得凍晶注射劑",
+                    "乳癌",
+                    "卵巢癌",
+                    "胰臟癌",
+                    "非小細胞肺癌",
+                    "膀胱癌",
+                    "癌症藥物介紹",
+                    "南光化學製藥股份有限公司",
+                    "GEMCITABINE HYDROCHLORIDE",
+                    "膽道癌"
+                ],
+                "website": [
+                    "Breast Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Esophageal Cancer",
+                    "Pancreatic Cancer",
+                    "Liver Cancer"
                 ]
             },
             {
